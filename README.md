@@ -1,4 +1,4 @@
-# PyData NYC 2018: Introduction to Model Interpretability
+# Anthill Inside - Bangalore 2019
 
 ## Setup instructions
 
